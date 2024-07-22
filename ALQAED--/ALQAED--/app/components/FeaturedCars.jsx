@@ -3,9 +3,9 @@ import CarCard from './CarCard';
 const FeaturedCars = () => {
   const cars = [
     {
-      name: "Daewoo Nexia ",
+      name: "أوبل انسيجنيا 2019  ",
       description: "A high-performance supercar with a twin-turbo V8 engine.",
-      price: "$280,000",
+      price: "1,020,0000 EGP",
       image: "/images/car1.jpg",
     },
     {
